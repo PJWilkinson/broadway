@@ -30,7 +30,7 @@ h2, h3 {
 }
 
 h2 {
-  font-size: 32px;
+  font-size: 36px;
 }
 
 h3 {
@@ -46,7 +46,7 @@ a {
 }
 
 #footer {
-  background-color: yellow;
+  background-color: dimgray;
   color: #ffffff;
   text-align: left;
 }
